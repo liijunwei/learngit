@@ -7,3 +7,4 @@ xiaoli
 how amazing
 Is visual studio's version control system powerful ? hummm
 Creating a new branch is quick
+creating a new branch is quick & simple.
